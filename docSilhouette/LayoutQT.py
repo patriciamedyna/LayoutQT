@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(filename = 'logging.log', format = '%(message)s', filemode = 'a', level = logging.DEBUG)
 
 import tqdm
-class docSilhouette:
+class LayoutQT:
     '''
     A class responsible for transforming pdf into text enriched with 
     special characters denoting aesthetics features, like page and document
