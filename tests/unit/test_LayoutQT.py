@@ -1,6 +1,6 @@
 from datetime import date
 import os
-from docSilhouette.docSilhouette import docSilhouette
+from docSilhouette.docSilhouette import LayoutQT
 
 from tests import *
 from tests.helpers import *
