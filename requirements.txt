@@ -1,9 +1,0 @@
-pytest
-pytest-cov
-numpy==1.21.3
-opencv-python==4.5.4.58
-pandas==1.3.4
-pdf2image==1.16.0
-pika==1.2.0
-Pillow==8.4.0
-pytesseract==0.3.8
