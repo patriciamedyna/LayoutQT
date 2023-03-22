@@ -11,7 +11,7 @@ We also applied a greedy algorithm to organize the words in blocks, firstly proc
 You'd rather install the library using pip:
 
 ```shell
-pip install docSilhouette
+pip install LayoutQT
 ```
 
 Then you can use it:
