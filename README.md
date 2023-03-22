@@ -17,8 +17,8 @@ pip install docSilhouette
 Then you can use it:
 
 ```python
-from docSilhouette.docSilhouette import docSilhouette
-doc = docSilhouette('./tests/assets/single_page.pdf')
+from LayoutQT.LayoutQT import LayoutQT
+doc = LayoutQT('./tests/assets/single_page.pdf')
 doc.setup()
 print(doc.get_text(True))
 ```
