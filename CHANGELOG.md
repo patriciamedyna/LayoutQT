@@ -1,0 +1,1 @@
+0.1.0 Usable version of docSilhouette with its main features
