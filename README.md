@@ -101,7 +101,7 @@ If you find LayoutQT useful in your research, please cite the following paper:
 ```shell
 @article{DELUCENADRUMOND2023106091,
 title = {LayoutQT—Layout Quadrant Tags to embed visual features for document analysis},
-author = {Patricia Medyna Lauritzen {de Lucena Drumond} and Lindeberg Pessoa Leite and Teofilo E. {de Campos} and Fabricio Ataides Braz},
+author = {P. M. L. de Lucena Drumond and L. P. Leite and T. E. de Campos and F. A. Braz},
 journal = {Engineering Applications of Artificial Intelligence},
 volume = {122},
 pages = {106091},
@@ -110,6 +110,7 @@ issn = {0952-1976},
 doi = {https://doi.org/10.1016/j.engappai.2023.106091},
 url = {https://www.sciencedirect.com/science/article/pii/S0952197623002750}
 }
+```
 
 ## License
 MIT
