@@ -5,7 +5,7 @@
 This library wraps pytesseract and adds some useful features for text processing. Objevtively it takes information from the bouding boxes issued by tesseract and it exctracts some coherent information from the text aesthetic, like page and document position for each text block. For more details, please refer to our paper: 
 
 
-[LayoutQT—Layout Quadrant Tags to embed visual features for document analysis](https://www.sciencedirect.com/science/article/abs/pii/S0952197623002750)
+[LayoutQT—Layout Quadrant Tags to embed visual features for document analysis](https://www.sciencedirect.com/science/article/abs/pii/S0952197623002750) Patricia Medyna Lauritzen de Lucena Drumond, Lindeberg Pessoa Leite, Teofilo E. de Campos, Fabricio Ataides Braz, Engineering Applications of Artificial Intelligence, 2023.
 
 We also applied a greedy algorithm to organize the words in blocks, firstly processing lines, after that processing the groups of words as exposed by tesseract dataframe.
 
